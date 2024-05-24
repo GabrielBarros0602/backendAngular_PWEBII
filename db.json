@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso de Angular",
+      "validade": "2050-12-31",
+      "precoProduto": 350
+    },
+    {
+      "nome": "Pacotão cursos de Ionic + Angular",
+      "validade": "2200-06-02",
+      "precoProduto": 530,
+      "id": 2
+    },
+    {
+      "nome": "Curso de Ionic",
+      "validade": "2050-12-31",
+      "precoProduto": 350,
+      "id": 3
+    }
+  ]
+}
